@@ -58,8 +58,8 @@
 // Оголоси дві змінні, productName для назви товару і pricePerItem для зберігання цни за штуку.
 // При оголошені присвой змінним наступні характеристики товара:
 
-// назва - строка "Headphone"
-// const productName = "Headphone";
+// назва - строка "Pizza"
+// const productName = "Pizza";
 
 // ціна за штуку - число 1 000
 // const pricePerItem = 1000;
@@ -73,7 +73,7 @@
 // Оголоси дві змінні, productName для назви товару і pricePerItem для зберігання цни за штуку.
 // При оголошені присвой змінним наступні характеристики товара:
 
-// назва - строка "Pizza"
+// назва - строка "Headphone"
 // const productName = "Headphone";
 
 // const pricePerItem = 1000;
@@ -89,7 +89,7 @@
 // При оголошені присвой змінним наступні характеристики товара:
 
 // назва - строка "T-shirt"
-// const productName = "Headphone";
+// const productName = "T-shirt";
 
 // ціна за штуку - число 1 200;
 // const pricePerItem = 1000;
